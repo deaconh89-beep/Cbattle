@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Craft Royale, a 3D Minecraft x Fortnite style battle royale game built with Three.js. Features 10-player battle royale matches, over-the-shoulder third-person combat with crosshairs, instant grid-building mechanics (walls, ramps, floors), fully destructible voxel environments and resource harvesting (wood, stone, metal), dynamic shrinking storm circle, 9 AI combat bots, procedural Web Audio sound synthesis, and an atmospheric low-occlusion HUD.",
+  "updatedAt":  "2026-11-07T13:36:31.463985668Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

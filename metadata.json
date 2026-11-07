@@ -1,0 +1,6 @@
+{
+  "name": "Craft Royale - 3D Voxel Battle Royale",
+  "description": "Minecraft meets Fortnite in this 3D battle royale game with instant building mechanics, destructible voxel terrain, weapon loot, shrinking storm, and AI bot combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
